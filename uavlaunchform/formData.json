@@ -1,0 +1,8 @@
+{ fields: 
+   { date: '0004-04-04',
+     exercise: 'FX25',
+     mission: '4',
+     uavid: '4',
+     gopro: '4',
+     takeoff: '4',
+     team: 'blue' } }
