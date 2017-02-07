@@ -1,0 +1,11 @@
+{ fields: 
+   { date: '2016-10-08',
+     exercise: 'FX27',
+     mission: '14',
+     sortie: '',
+     uavid: '74',
+     gopro: '87',
+     takeoff: '1229',
+     landing: '1232',
+     stack: '0',
+     comments: 'Camera left on, one hour of dead air before actual video' } }
