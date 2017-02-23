@@ -1,11 +1,11 @@
-{ fields: 
-   { date: '2016-08-09',
-     exercise: 'FX27',
-     mission: '8',
-     sortie: '',
-     uavid: '30',
-     gopro: '75',
-     takeoff: '1231',
-     landing: '1234',
-     stack: '0',
-     comments: '' } }
+{ "fields": 
+   { "date": "2016-08-09",
+     "exercise": "FX27",
+     "mission": "8",
+     "sortie": "",
+     "uavid": "30",
+     "gopro": "75",
+     "takeoff": "1231",
+     "landing": "1234",
+     "stack": "0",
+     "comments": "" } }

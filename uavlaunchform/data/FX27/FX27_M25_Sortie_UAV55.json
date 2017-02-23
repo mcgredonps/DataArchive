@@ -1,11 +1,11 @@
-{ fields: 
-   { date: '2016-08-10',
-     exercise: 'FX27',
-     mission: '25',
-     sortie: '',
-     uavid: '55',
-     gopro: '82',
-     takeoff: '1435',
-     landing: '0000',
-     stack: '0',
-     comments: 'WCF failed didn\'t have sensor, dove into burn area' } }
+{ "fields": 
+   { "date": "2016-08-10",
+     "exercise": "FX27",
+     "mission": "25",
+     "sortie": "",
+     "uavid": "55",
+     "gopro": "82",
+     "takeoff": "1435",
+     "landing": "0000",
+     "stack": "0",
+     "comments": "WCF failed didn\"t have sensor, dove into burn area" } }
